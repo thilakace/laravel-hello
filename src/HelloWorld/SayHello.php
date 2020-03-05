@@ -7,3 +7,4 @@ class SayHello
         return 'Hello World, Composer!';
     }
 
+}
